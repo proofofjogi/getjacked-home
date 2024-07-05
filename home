@@ -1,0 +1,46 @@
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		
+		<link href="./_app/immutable/assets/0.CAaPnxxP.css" rel="stylesheet"><title>Hypertropy Gym App an Personal Robo Trainer | Get Jacked</title><!-- HEAD_svelte-ixywqg_START -->  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7F59PJLFRS" data-svelte-h="svelte-c8xi3f"></script> <script data-svelte-h="svelte-42wowe">window.dataLayer = window.dataLayer || [];
+			function gtag() {
+				dataLayer.push(arguments);
+			}
+			gtag('js', new Date());
+
+			gtag('config', 'G-7F59PJLFRS');</script><link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png"><link rel="manifest" href="/favicon/site.webmanifest"><!-- HEAD_svelte-ixywqg_END --><!-- HEAD_svelte-tnqn2x_START --><meta name="description" content="Get Jacked is a hypertropy gym app and personal robo trainer based on state of the art exercises science knowledge. Using get jacked will get you jacked"><!-- HEAD_svelte-tnqn2x_END -->
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">   <nav class="p-4" id="site-nav" data-svelte-h="svelte-1uze0tt"><div class="container mx-auto max-w-5xl md:px-4"><div class="flex gap-3 md:gap-5 items-center"><img id="logo" src="/favicon/apple-touch-icon.png" alt="logo" class="w-14 h-14 rounded-2xl"> <div class="flex flex-col gap-0"><label for="logo" class="font-bold text-lg p-0 m-0 leading-none">getjacked.app</label> <div class="font-bold text-secondary text-md p-0 m-0 leading-tight">Smarter Training</div></div></div></div> </nav>     <main class="flex items-center justify-center" style="height: calc(100vh - 0px)"><div class="p-4 max-w-3xl prose"><h1 class="text-primary text-5xl font-bold">Gym Tracking App and Personal Robo Trainer</h1> <p class=""><!-- HTML_TAG_START -->GetJacked is a science based robo training app under development. Testing signup is enabled! <br />
+			Using GetJacked consistently will get you jacked!<!-- HTML_TAG_END --></p> <section class="max-w-2xl"><h4 data-svelte-h="svelte-1qyg0gi">Test our app for free</h4> <div class="flex flex-col"><div class="input input-primary flex justify-end items-center gap-3"><label for="email" data-svelte-h="svelte-1flf0h4">Email:</label> <input class="grow" id="email" name="email" placeholder="Your Email" required> <button class="btn btn-accent btn-sm" data-svelte-h="svelte-167snxz">Send</button></div> <div class="mt-4" data-svelte-h="svelte-rgkbvl">No strings attached! Using GetJacked is completely free during testing</div></div>
+			m</section></div></main>   <footer class="footer bg-neutral text-neutral-content p-10" data-svelte-h="svelte-15fn4be"><nav><h6 class="footer-title">Exercises</h6> <a class="link link-hover" href="/en/exercises">The Best Exercises for Hypertrophy</a></nav></footer> 
+			
+			<script>
+				{
+					__sveltekit_pro6qj = {
+						base: new URL(".", location).pathname.slice(0, -1)
+					};
+
+					const element = document.currentScript.parentElement;
+
+					const data = [null,null];
+
+					Promise.all([
+						import("./_app/immutable/entry/start.D6-kLUqj.js"),
+						import("./_app/immutable/entry/app.UjrsNnfi.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element, {
+							node_ids: [0, 8],
+							data,
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>
